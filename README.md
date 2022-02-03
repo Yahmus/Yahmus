@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Yahmus
+- 🌱 I’m currently learning Python and QA
+- 📫 How to reach me: via Telegram @krkozionov
